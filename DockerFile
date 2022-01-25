@@ -1,0 +1,2 @@
+FROM nginx
+COPY /webEA /usr/share/nginx/html
